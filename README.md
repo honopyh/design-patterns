@@ -4,7 +4,7 @@
 
 ### 1. 생성(Creational) 패턴
 
-- [ ] 1.1. **팩토리 메서드 패턴 (Factory Method Pattern)**
+- [x] 1.1. **팩토리 메서드 패턴 (Factory Method Pattern)**
 - [ ] 1.2. **추상 팩토리 패턴 (Abstract Factory Pattern)**
 - [ ] 1.3. **빌더 패턴 (Builder Pattern)**
 - [ ] 1.4. **프로토타입 패턴 (Prototype Pattern)**
